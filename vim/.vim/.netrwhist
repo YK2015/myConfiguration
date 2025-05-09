@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/ykuang/Nutstore Files/YangKuang/Papers/2021HarMultiMesh/data/GS/He/VMN1'
+let g:netrw_dirhist_3='/home/ykuang/Nutstore Files/YangKuang/Papers/2021HarMultiMesh/data/GS/He'
+let g:netrw_dirhist_2='/home/ykuang/Documents/smiley-sans-1.0.0/build'
+let g:netrw_dirhist_1='/home/ykuang/.oh-my-zsh'
